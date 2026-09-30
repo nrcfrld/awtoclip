@@ -1,0 +1,10 @@
+.env
+data/projects/*
+!data/projects/.gitkeep
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/node_modules/
+**/dist/
+**/.impeccable/
+**/*.tsbuildinfo
